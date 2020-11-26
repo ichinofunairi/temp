@@ -31,14 +31,14 @@ int main(void)
 	printf("%d\n",sts);
 
 	int score;
-//	printf("スコアを入力して\n");
+//	printf("スコア\n");
 //	scanf("%d",&score);
     score = 60;    
 	if (score < 100){
-	    printf("あなたは%d点です\n",score);
+	    printf("your score\n",score);
 	}
 	else{
-	printf("あなたのスコアは100点です");
+	printf("your score");
 	}
 */
 	
